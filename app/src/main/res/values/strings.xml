@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">World Map</string>
+    <string name="share">Share</string>
+    <string name="review">Review</string>
+    <string name="location_not_enabled">Location not enable.</string>
+    <string name="location_Setting">Open Location Settings.</string>
+    <string name="country">Country</string>
+    <string name="peak">Peak</string>
+    <string name="river">River</string>
+    <string name="wonder">Wonder</string>
+    <string name="icon">Icon</string>
+    <string name="locationsetting">Open Location Settings.</string>
+
+    <string name="quiz_title">Country Name Quiz</string>
+    <string-array name="countries_array">
+        <item>United States of America</item>
+        <item>Japan</item>
+        <item>Turkey</item>
+        <item>Germany</item>
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>South Korea</item>
+        <item>Spain</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>Netherlands</item>
+        <item>Belgium</item>
+        <item>Greece</item>
+        <item>Czech Republic</item>
+        <item>Portugal</item>
+        <item>Swedan</item>
+        <item>Austria</item>
+        <item>Switzerland</item>
+        <item>Israel</item>
+        <item>Singapore</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Norway</item>
+        <item>Ireland</item>
+        <item>New Zealand</item>
+        <item>Solvenia</item>
+        <item>Estonia</item>
+        <item>Cyprus</item>
+        <item>Luxembourg</item>
+        <item>Iceland</item>
+    </string-array>
+
+    <string-array name="link_array">
+        <item> https://en.wikipedia.org/wiki/United_States</item>
+        <item>https://en.wikipedia.org/wiki/Japan</item>
+        <item>https://en.wikipedia.org/wiki/Turkey</item>
+        <item>https://en.wikipedia.org/wiki/Germany</item>
+        <item>https://en.wikipedia.org/wiki/United_Kingdom</item>
+        <item>https://en.wikipedia.org/wiki/France</item>
+        <item>https://en.wikipedia.org/wiki/Italy</item>
+        <item>https://en.wikipedia.org/wiki/South_Korea</item>
+        <item>https://en.wikipedia.org/wiki/Spain</item>
+        <item>https://en.wikipedia.org/wiki/Canada</item>
+        <item>https://en.wikipedia.org/wiki/Australia</item>
+        <item>https://en.wikipedia.org/wiki/Netherlands</item>
+        <item>https://en.wikipedia.org/wiki/Belgium</item>
+        <item>https://en.wikipedia.org/wiki/Greece</item>
+        <item>https://en.wikipedia.org/wiki/Czech_Republic</item>
+        <item>https://en.wikipedia.org/wiki/Portugal</item>
+        <item>https://en.wikipedia.org/wiki/swedan</item>
+        <item>https://en.wikipedia.org/wiki/Austria</item>
+        <item>https://en.wikipedia.org/wiki/Switzerland</item>
+        <item>https://en.wikipedia.org/wiki/Israel</item>
+        <item>https://en.wikipedia.org/wiki/Singapore</item>
+        <item>https://en.wikipedia.org/wiki/Denmark</item>
+        <item>https://en.wikipedia.org/wiki/Finland</item>
+        <item>https://en.wikipedia.org/wiki/Norway</item>
+        <item>https://en.wikipedia.org/wiki/Ireland</item>
+        <item>https://en.wikipedia.org/wiki/New_Zealand</item>
+        <item>https://en.wikipedia.org/wiki/Solvenia</item>
+        <item>https://en.wikipedia.org/wiki/Estonia</item>
+        <item>https://en.wikipedia.org/wiki/Cyprus</item>
+        <item>https://en.wikipedia.org/wiki/Luxembourg</item>
+        <item>https://en.wikipedia.org/wiki/Iceland</item>
+    </string-array>
+
+</resources>

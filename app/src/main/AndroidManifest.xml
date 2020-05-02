@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.splash_screen">
+
+    <application
+    tools:replace="android:label"
+        android:allowBackup="true"
+        android:icon="@drawable/globe"
+        android:label="World Map"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD08ZgIXnwnQKLiYmxFTKX3xi1hZe7ZirM" />
+        <activity android:name=".OnlineMap" />
+        <activity android:name=".OfflineMapMain" />
+        <activity android:name=".OfflineMapMisc" />
+        <activity android:name=".MoreKnowledgeMain" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".TabActivity"/>
+        <activity android:name=".Streetview"/>
+        <activity android:name=".FlagQuizGame"></activity>
+        <activity android:name=".SplashActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

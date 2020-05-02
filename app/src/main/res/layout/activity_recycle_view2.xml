@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/relativeLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OfflineMapMisc"
+    android:orientation="vertical"
+
+    >
+
+    <com.jsibbold.zoomage.ZoomageView
+        android:id="@+id/continentImage"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        />
+
+    <TextView
+        android:id="@+id/continentName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:paddingLeft="10sp"
+        />
+    <TextView
+        android:id="@+id/continentPopulation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:paddingLeft="10sp"
+        />
+
+    <TextView
+        android:id="@+id/continentArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:paddingLeft="10sp"
+        />
+
+        />
+    <TextView
+        android:id="@+id/continentCountries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:paddingLeft="10sp"
+        />
+</LinearLayout>
